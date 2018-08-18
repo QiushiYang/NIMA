@@ -1,1 +1,1 @@
-# NIMA
+# Codes of NIMA.
