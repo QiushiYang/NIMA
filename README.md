@@ -1,5 +1,4 @@
-# Codes of NIMA <br>
-An Image Aesthetics Assessment Algorithm in Pytorch
+# Codes of NIMA <br> An Image Aesthetics Assessment Algorithm in Pytorch
 ======================================================
 paper: [NIMA: Neural Image Assessment](https://arxiv.org/abs/1709.05424v2)
 
