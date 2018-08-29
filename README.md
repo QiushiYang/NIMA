@@ -7,4 +7,4 @@ Requirements
 * Pytorch 0.4 <br> 
 * numpy <br> 
 * scipy <br> 
-    * torchvision 
+* torchvision 
